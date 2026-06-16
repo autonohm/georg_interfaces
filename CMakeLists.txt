@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.20)
 
-project(georg_msgs)
+project(georg_interfaces)
 
 # Default to C++17
 if(NOT CMAKE_CXX_STANDARD)

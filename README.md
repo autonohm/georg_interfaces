@@ -1,4 +1,4 @@
-# georg_msgs
+# georg_interfaces
 > Message descriptions for Ohm @home robots
 
 These Messages/Services/Actions are each implemented by the robot's subsystems.  
