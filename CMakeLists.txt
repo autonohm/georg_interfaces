@@ -29,6 +29,7 @@ set(msg_files
 set(srv_files
   "srv/ArmGesture.srv"
   "srv/LookAt.srv"
+  "srv/PlayAudioFromSpeech.srv"
 )
 
 set(action_files
